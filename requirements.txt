@@ -1,0 +1,10 @@
+tensorflow==2.10.0
+opencv-python-headless
+pdf2image
+Pillow
+numpy
+pandas
+xlrd
+scikit-learn
+streamlit
+streamlit-drawable-canvas
